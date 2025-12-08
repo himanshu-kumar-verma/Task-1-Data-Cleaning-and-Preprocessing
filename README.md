@@ -22,9 +22,9 @@
 
 - Renamed incorrect column headers to correct spellings:
 
-  - Hipertension → Hypertension
+  • Hipertension → Hypertension
 
-  - Handcap → Handicap
+  • Handcap → Handicap
 
 ## Identifier Cleanup:
 
