@@ -22,9 +22,9 @@
 
 - Renamed incorrect column headers to correct spellings:
 
-• Hipertension → Hypertension
+ • Hipertension → Hypertension
 
-• Handcap → Handicap
+ • Handcap → Handicap
 
 ## Identifier Cleanup:
 
@@ -36,19 +36,19 @@
 
 - Verified that the following columns contain clean 0/1 values:
 
-· Scholarship
+ • Scholarship
 
-· Hypertension
+ • Hypertension
 
-· Diabetes
+ • Diabetes
 
-· Alcoholism
+ • Alcoholism
 
-· Handicap
+ • Handicap
 
-· SMS_received
+ • SMS_received
 
-· No-show
+ • No-show
 
 - Ensured they remain numeric for accurate counting and averaging.
 
