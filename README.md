@@ -1,8 +1,8 @@
 # 🧹 Task-1-Data-Cleaning-and-Preprocessing
 
-**Medical Appointment Dataset Cleaning**
+## **Medical Appointment Dataset Cleaning Summary**
 
-## 🧹 Data Cleaning Steps I Performed
+## Data Cleaning Steps I Performed
 
 ## Date Cleaning:
 
@@ -23,6 +23,7 @@
 - Renamed incorrect column headers to correct spellings:
 
 • Hipertension → Hypertension
+
 • Handcap → Handicap
 
 ## Identifier Cleanup:
@@ -35,13 +36,19 @@
 
 - Verified that the following columns contain clean 0/1 values:
 
-• Scholarship
-• Hypertension
-• Diabetes
-• Alcoholism
-• Handicap
-• SMS_received
-• No-show
+· Scholarship
+
+· Hypertension
+
+· Diabetes
+
+· Alcoholism
+
+· Handicap
+
+· SMS_received
+
+· No-show
 
 - Ensured they remain numeric for accurate counting and averaging.
 
